@@ -8,25 +8,15 @@ utrd
     <title>Restaurant Menus</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-    <h1>Our Daily Menus</h1>
+    <body><style>
+    {background: url('['](https://upload.wikimedia.org/wikipedia/commons/4/41/Paper_Plate.jpg)) no-repeat center center/cover;
+    width: 400px;
+    height: 550px;}  
+    </style>/body>
+        <body>
+     <h1>Our Daily Menus</h1>
     <div class="menu-container">
         <!-- Breakfast Menu -->
-<body>   .my-background-div {
-        background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/41/Paper_Plate.jpg'); 
-        background-repeat: no-repeat; /* Prevent image tiling */
-        background-position: center; /* Center the image within the div */
-        background-size: 400px 550px; /* Set specific width and height */
-        /* Or use keywords like 'cover' or 'contain' for responsive sizing */
-        /* background-size: cover; */
-        /* background-size: contain; */
-
-        /* Define the dimensions of your div */
-        width: 400px;
-        height: 550px;
-        border: 1px solid black; /* For visualization */
-    }</body>
-
         <div class="menu" id="breakfast-menu">
             <h2>Breakfast Menu</h2>
             <div class="menu-items">
