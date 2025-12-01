@@ -29,4 +29,41 @@
         <div class="piece extra-piece" data-order="17"></div>
     </div>
 </body>
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+#puzzle-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows items to wrap to new lines */
+    width: 312px; /* Adjust based on image size (3 * 100px + gap) */
+    height: 312px;
+    gap: 4px; /* Space between puzzle pieces */
+    border: 2px solid #333;
+    padding: 4px;
+    background-color: #fff;
+}
+
+.puzzle-piece {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    box-sizing: border-box;
+    /* transition: transform 0.2s; Optional: adds a smooth effect when selected */
+}
+
+.puzzle-piece.selected {
+    border: 3px solid blue; /* Highlight selected pieces */
+}
+
+#shuffle-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
 </html>
