@@ -1,5 +1,39 @@
 
+<!DOCTYPE html>
 <html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flexbox Three Columns</title>
+<style>
+.container {
+display: flex; /* Activate Flexbox on the parent */
+justify-content: space-around; /* Distributes space nicely */
+gap: 20px; /* Adds space between columns */
+padding: 20px;
+}
+.section {
+flex: 1; /* Makes all sections grow equally to fill the space */
+background-color: #f1f1f1;
+padding: 20px;
+border: 1px solid #ccc;
+text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="section">
+<h2>Section 1</h2>
+<p>This column will take up one-third of the available space.</p>
+</div>
+<div class="section">
+<h2>Section 2</h2>
+<p>This column will also take up one-third of the available space.</p>
+</div>
+<div class="section">
+<h2>Section 3</h2>
+<p>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -62,3 +96,8 @@ display: block;
 <div class="grid-item"><img src="puzzle1_I.jpg" alt="Image 16"></div>
 <img src="puzzle1_D.jpg" alt="Hidden Image" hidden>
 </div>
+</p>
+</div>
+</div>
+</body>
+</html>
