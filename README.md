@@ -53,9 +53,9 @@
 <body>
 
     <div class="grid-container">
-        <div class="grid-item"><img src="puzzle1_Q.jpg" alt="Image 1"></div>
-        <div class="grid-item"><img src="puzzle1_J.jpg" alt="Image 2"></div>
-        <div class="grid-item"><img src="puzzle1_M.jpg" alt="Image 3"></div>
+        <div class="grid-item"><img src="puzzle1_M.jpg" alt="Image 1"></div>
+        <div class="grid-item"><img src="puzzle1_Q.jpg" alt="Image 2"></div>
+        <div class="grid-item"><img src="puzzle1_J.jpg" alt="Image 3"></div>
         <div class="grid-item"><img src="puzzle1_G.jpg" alt="Image 4"></div>
         <div class="grid-item"><img src="puzzle1_A.jpg" alt="Image 5"></div>
         <div class="grid-item"><img src="puzzle1_B.jpg" alt="Image 6"></div>
