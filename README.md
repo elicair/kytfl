@@ -69,5 +69,5 @@
         <div class="grid-item"><img src="puzzle1_F.jpg" alt="Image 13"></div>
         <div class="grid-item"><img src="puzzle1_L.jpg" alt="Image 14"></div>
         <div class="grid-item"><img src="puzzle1_K.jpg" alt="Image 15"></div>
-        <div class="grid-item"><img src="puzzle1_D.jpg" alt="Image 16"></div>
+        <div class="grid-item"><img src="puzzle1_I.jpg" alt="Image 16"></div>
     </div>
