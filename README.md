@@ -24,7 +24,7 @@ text-align: center;
 <body>
 <div class="container">
 <div class="section">
-<h2>Section 1</h2>
+<h2>Sectillon 1</h2>
 <p>This column will take up one-third of the available space.</p>
 </div>
 <div class="section">
