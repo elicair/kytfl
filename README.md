@@ -54,15 +54,15 @@
 
     <div class="grid-container">
         <!-- Replace 'via.placeholder.com' with your actual image paths -->
-        <div class="grid-item"><img src="puzzle1_A.jpg" alt="Image 1"></div>
+        <div class="grid-item"><img src="puzzle1_Q.jpg" alt="Image 1"></div>
         <div class="grid-item"><img src="puzzle1_J.jpg" alt="Image 2"></div>
         <div class="grid-item"><img src="puzzle1_M.jpg" alt="Image 3"></div>
         <div class="grid-item"><img src="puzzle1_G.jpg" alt="Image 4"></div>
-        <div class="grid-item"><img src="puzzle1_E.jpg" alt="Image 5"></div>
+        <div class="grid-item"><img src="puzzle1_A.jpg" alt="Image 5"></div>
         <div class="grid-item"><img src="puzzle1_B.jpg" alt="Image 6"></div>
         <div class="grid-item"><img src="puzzle1_H.jpg" alt="Image 7"></div>
         <div class="grid-item"><img src="puzzle1_P.jpg" alt="Image 8"></div>
-        <div class="grid-item"><img src="puzzle1_Q.jpg" alt="Image 9"></div>
+        <div class="grid-item"><img src="puzzle1_E.jpg" alt="Image 9"></div>
         <div class="grid-item"><img src="puzzle1_N.jpg" alt="Image 10"></div>
         <div class="grid-item"><img src="puzzle1_C.jpg" alt="Image 11"></div>
         <div class="grid-item"><img src="puzzle1_O.jpg" alt="Image 12"></div>
