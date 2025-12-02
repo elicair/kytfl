@@ -28,7 +28,7 @@ text-align: center;
 </div>
 <div class="section">
 <h2>why i picked this puzzle</h2>
-<p>i picked this buzle at random.</p>
+<p>i picked this puzzle at random.</p>
 </div>
 <div class="section">
 <h2>puzzle</h2>
